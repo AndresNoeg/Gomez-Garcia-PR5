@@ -29,4 +29,4 @@ else: #Si no se cumple la primera condicion
     
     print (" ")
 
-    ![image](https://github.com/user-attachments/assets/752a4183-94ec-4264-b9dc-b3277b11d7ce)
+![image](https://github.com/user-attachments/assets/752a4183-94ec-4264-b9dc-b3277b11d7ce)
